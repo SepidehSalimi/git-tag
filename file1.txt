@@ -7,3 +7,6 @@ salam sepideh
 
 red 
 blue
+
+int
+boolean
